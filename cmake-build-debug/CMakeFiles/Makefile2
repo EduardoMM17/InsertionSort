@@ -59,10 +59,10 @@ RM = /opt/clion-2019.2.2/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/eduardo/Desktop/prerepos/insertionSort
+CMAKE_SOURCE_DIR = /home/eduardo/Desktop/repos/InsertionSort
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/eduardo/Desktop/prerepos/insertionSort/cmake-build-debug
+CMAKE_BINARY_DIR = /home/eduardo/Desktop/repos/InsertionSort/cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/insertionSort.dir
@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /home/eduardo/Desktop/prerepos/insertionSort/cmake-build-debu
 CMakeFiles/insertionSort.dir/all:
 	$(MAKE) -f CMakeFiles/insertionSort.dir/build.make CMakeFiles/insertionSort.dir/depend
 	$(MAKE) -f CMakeFiles/insertionSort.dir/build.make CMakeFiles/insertionSort.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/eduardo/Desktop/prerepos/insertionSort/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target insertionSort"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/eduardo/Desktop/repos/InsertionSort/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target insertionSort"
 .PHONY : CMakeFiles/insertionSort.dir/all
 
 # Include target in all.
@@ -81,9 +81,9 @@ all: CMakeFiles/insertionSort.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/insertionSort.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/eduardo/Desktop/prerepos/insertionSort/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/eduardo/Desktop/repos/InsertionSort/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/insertionSort.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/eduardo/Desktop/prerepos/insertionSort/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/eduardo/Desktop/repos/InsertionSort/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/insertionSort.dir/rule
 
 # Convenience name for target.

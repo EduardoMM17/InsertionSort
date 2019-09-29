@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/eduardo/Desktop/prerepos/insertionSort/main.cpp" "/home/eduardo/Desktop/prerepos/insertionSort/cmake-build-debug/CMakeFiles/insertionSort.dir/main.cpp.o"
+  "/home/eduardo/Desktop/repos/InsertionSort/main.cpp" "/home/eduardo/Desktop/repos/InsertionSort/cmake-build-debug/CMakeFiles/insertionSort.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
